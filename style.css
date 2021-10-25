@@ -1,0 +1,23 @@
+charan.body {
+  margin: 0;
+  background-color:white;
+}
+.charan {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #0b5b2d;
+}
+.charan > a {
+  text-decoration: none;
+  color: white;
+  margin: 5px;
+  font-size: 18px;
+}
+.charan > a:hover {
+  color: white;
+}
+.content {
+  padding: 10px;
+}
